@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagaraju Chary</h1>
-<h3 align="center">Wev Developer | Programmer | Content Writer | Learner</h3>
+<h3 align="center">Wev Developer | Programmer |  Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VADLA-CHARY&label=Profile%20views&color=0e75b6&style=flat" alt="VADLA-CHARY" /> </p>
 
